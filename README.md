@@ -9,4 +9,5 @@ Works as intended as of July 2021. No longer maintained, since my login credenti
 
 
 CreativeCommons licence excludes the sheetwriter.py file, since it uses openpyxl (MIT licence).
+
 Contact ddxiao1357@gmail.com for inquiries about the source code.
