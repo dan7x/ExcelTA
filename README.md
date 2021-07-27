@@ -5,7 +5,7 @@ Components of this program can be used to directly scrape TeachAssist and conver
 
 todo: demo gifs
 
-Works as intended as of July 2021.
+Works as intended as of July 2021. No longer maintained, since my login credentials don't work anymore.
 
 CreativeCommons licence excludes the sheetwriter.py file, since it uses openpyxl (MIT licence).
 Contact ddxiao1357@gmail.com for inquiries about the source code.
