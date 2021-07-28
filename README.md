@@ -3,7 +3,7 @@ Download YRDSB TeachAssist grades to Excel spreadsheets and/or locally save an H
 
 Components of this program can be used to directly scrape TeachAssist and convert the data into useable structures or into a JSON.
 
-todo: demo gifs
+![spreadsheet demo](https://media3.giphy.com/media/VXNE38V0c2rCAeiBWr/giphy.gif?cid=790b761142481bc74e68ae4ecab3b1a9cad5acf975a75dcf&rid=giphy.gif&ct=g)
 
 Works as intended as of July 2021. No longer maintained, since my login credentials don't work anymore.
 
