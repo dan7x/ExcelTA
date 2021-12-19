@@ -8,8 +8,3 @@ Components of this program can be used to directly scrape TeachAssist and conver
 ![html demo](https://media4.giphy.com/media/S13UK9rx6GJ42coD5M/giphy.gif?cid=790b7611ed7e39c4c654ea3a8694691a4e4fb62d0dd5cbe5&rid=giphy.gif&ct=g)
 
 Works as intended as of July 2021. No longer maintained, since my login credentials don't work anymore.
-
-
-CreativeCommons licence excludes the sheetwriter.py file, since it uses openpyxl (MIT licence).
-
-Contact ddxiao1357@gmail.com for inquiries about the source code.
